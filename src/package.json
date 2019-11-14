@@ -1,0 +1,20 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/next/docs/src/pages/demos/drawers/TemporaryDrawer.tsx",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@types/material-uiIcons": "latest",
+    "@material-ui/icons": "next",
+    "@material-ui/core": "next"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Material demo",
+  "main": "index.tsx",
+  "description": "https://github.com/mui-org/material-ui/blob/next/docs/src/pages/demos/drawers/TemporaryDrawer.tsx",
+  "name": "material-demo",
+  "version": "0.0.0",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@types/material-uiIcons": "latest",
+    "@material-ui/icons": "next",
+    "@material-ui/core": "next"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
